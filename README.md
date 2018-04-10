@@ -1,6 +1,6 @@
 # node-restserver-express
 
-> This is a very simple application (Start of an application) which allows you to make request to a express server, you can make GET,POST,PUT,DELETE requests. This application was created because I know it helps to some people to understain real quick
+> This is a very simple application (Start of an application) which allows you to make request to a express server, you can make GET,POST,PUT,DELETE requests. This application was created because I hope this code will help you accomplish your needs and to understain real quick
 
 
 ## Quick Start
